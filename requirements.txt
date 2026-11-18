@@ -1,0 +1,6 @@
+pymupdf
+numpy
+soundfile
+torch
+transformers
+TTS
